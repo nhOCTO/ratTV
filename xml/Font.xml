@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fonts>
-	<fontset id="Default" idloc="31390">
+	<fontset id="MC360" idloc="31390">
 		<font>
 			<name>codecflagging</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>18</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>codecflagging_small</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>14</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>codecflagging_xtra_small</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>14</size>
 			<aspect>0.85</aspect>
 			<style>uppercase bold</style>
@@ -62,7 +62,7 @@
 		</font>
 		<font>
 			<name>font60</name>
-			<filename>Arial.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>90</size>
 			<style>bold</style>
 		</font>
@@ -70,31 +70,31 @@
 	<fontset id="Arial" idloc="31391">
 		<font>
 			<name>codecflagging</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>18</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>codecflagging_small</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>14</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>codecflagging_xtra_small</name>
-			<filename>X360.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>14</size>
 			<aspect>0.85</aspect>
 			<style>uppercase bold</style>
 		</font>
 		<font>
 			<name>font6</name>
-			<filename>Arial.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>16</size>
 		</font>
 		<font>
 			<name>font8</name>
-			<filename>Arial.ttf</filename>
+			<filename>MC360.ttf</filename>
 			<size>21</size>
 		</font>
 		<font>
